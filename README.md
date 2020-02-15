@@ -5,6 +5,9 @@ Included is solv_uns.py, which can be used to generate a more unsteady inviscid 
 
 To run the model reduction code, you would need to request the pymortestbed python implementation of reduced order modeling built by Matt Zahr. 
 
+# 2016_CS229
+A Clustering Algorithm for Reduced Order Modeling of Shock Waves
+
 The rom_stuff.py files contains the local implementation of a point selection / mesh coarsening method from my AA290 technical report. 
 
 More detailed information including reports and presentations at tinarwhite.com
